@@ -1,0 +1,7 @@
+# For frontend
+cd vehicle-booking-frontend
+git init
+git add .
+git commit -m "Initial commit: React frontend"
+git remote add origin https://github.com/Pritimore1104/vehicle-booking-system-frontend-react.git
+git push -u origin main
