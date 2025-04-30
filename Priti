@@ -1,0 +1,14 @@
+
+---
+
+## ✅ Final Steps to Upload on GitHub
+
+### 1. Initialize Git and Push to GitHub
+
+```bash
+git init
+git add .
+git commit -m "Initial commit: Java Spring Boot Vehicle Booking System"
+git remote add origin https://github.com/YOUR_USERNAME/vehicle-booking-system-backend-java.git
+git branch -M main
+git push -u origin main
