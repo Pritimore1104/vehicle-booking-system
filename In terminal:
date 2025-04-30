@@ -3,5 +3,5 @@ cd vehicle-booking-system-backend-java
 git init
 git add .
 git commit -m "Initial commit: Spring Boot backend"
-git remote add origin https://github.com/Priti More/vehicle-booking-system-backend-java.git
+git remote add origin https://github.com/Pritimore1104/vehicle-booking-system-backend-java.git
 git push -u origin main
